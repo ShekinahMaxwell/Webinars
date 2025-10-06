@@ -1,2 +1,8 @@
 # Webinars
--
+-  Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails by Corey Parker - October 10th 2025
+         Summary: Learn to recognize job scams through case study. 
+                  Red Flags: Typos, Generic Greeting, From a Personal Email Address - uses a non-institutional email (e.g., gmail, yahoo, outlook.com) instead of official domains, Too-good-to be-true offers - high pay for minimal work, Personal infomation requests, Excuse for no direct interaction such as claims to be “abroad” or emphasizes online work, Claims you were “shortlisted” without applying, Volunteer/job pretext—how is it a paying volunteer opportunity!?, Requests you to make purchases or pay, -	Impersonating trusted figures: HR, from a professor or an organization
+-	Scarcity Effect: “limited spots available” suggests exclusivity to push immediate response
+-	Social proof illusion: saying it’s for some good cause to help others
+                  Repercussions: Identity Theft, Financial Loss, Compromised organization accounts
+         Conclusion: Be cautious. Don’t share personal info (ssn, address, or bank details) via email.  
